@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root-element SYSTEM "example.dtd">
+<root-element>
+    <price1234>&HP;</price1234>
+</root-element>

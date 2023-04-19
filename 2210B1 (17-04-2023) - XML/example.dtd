@@ -1,0 +1,4 @@
+<!ELEMENT root-element (price1234)>
+<!ELEMENT price1234 (#PCDATA)>
+<!ATTLIST price1234 id ID #FIXED "pp">
+<!ENTITY HP SYSTEM "HeadPhones">
